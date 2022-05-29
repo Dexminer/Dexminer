@@ -9,7 +9,7 @@ coverY: 0
 
 **Available to Purchase on PinkSale**\
 \
-Pre-Launch - 250,000 $TRUFFLE
+Pre-Launch - 250,000 $DXM
 
 41% - FAIRLAUNCH\
 22% - LIQUIDITY\

@@ -1,6 +1,6 @@
 ---
 description: Security
-cover: ../.gitbook/assets/photo_2022-05-29_00-15-33.jpg
+cover: ../.gitbook/assets/photo_2022-05-29_12-11-08.jpg
 coverY: 0
 ---
 

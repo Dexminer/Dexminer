@@ -33,3 +33,27 @@ STAGE 2&#x20;
 * Dexminer Swap (ODEX) Release
 * Coinstore.com CEX listing
 * Stablecoin $DXM Mainnet & AudiT
+
+STAGE 3&#x20;
+
+* Bounty Campaign
+* Twitter Marketing Campaign
+* YouTube Marketing Campaign
+* CoinGecko Listing
+* CoinMarketCap Listing
+
+STAGE 4&#x20;
+
+* Build Phase - dApp V2 Dashboard
+* On Ramp Integration
+* Cross-Chain Integration
+* Partnerships
+
+STAGE 5
+
+* 1,000 TOKEN HOLDERS
+* 10,000 TOKEN HOLDERS
+* 15,000 TOKEN HOLDERS
+* 20,000 TOKEN HOLDERS
+* 50,000 TOKEN HOLDERS
+* 100,000 TOKEN HOLDERS

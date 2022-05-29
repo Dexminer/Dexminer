@@ -37,7 +37,7 @@
 ## SOCIAL MEDIA
 
 * [😍 Website](https://www.dexminer.app/)
-* [🤓 Telegram](https://t.me/c/1195010922/827)
+* [🤓 Telegram](https://t.me/DEXMINERofficial)
 * [😜 Twitter](https://twitter.com/DEXMINERAPP)
 * [😊 Reddit](https://www.reddit.com/user/DexMiner)
 * [🤠 Youtube](https://www.youtube.com/channel/UCdKU-omYluDgf9BauHLnhxw)
