@@ -17,7 +17,8 @@
 
 ## TECHNICAL
 
-* [🌐 NFT Collection](technical/nft-collection.md)
+* [🔮 NFT's collection](technical/nfts-collection.md)
+* [🌐 NFT's mechanics](technical/nfts-mechanics.md)
 * [🔰 Reward](technical/reward.md)
 * [👨👩👧👦 Referral Program](technical/referral-program.md)
 * [🎑 NFT Marketplace](technical/nft-marketplace.md)

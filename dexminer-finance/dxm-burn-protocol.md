@@ -13,5 +13,5 @@ DXM Burn Protocol
 The other benefit to an everlasting burn of circulating supply is that due to the deflationary nature of it, equates to a higher value of each $DXM token, therefore increasing the individual value.
 
 ![DXM Burn Protocol
-3% of all trades are sent to the Bluehole automatically to decease the supply.](../.gitbook/assets/burn.png)
+3% of all trades are sent to the hole mine automatically to decease the supply.](../.gitbook/assets/burn.png)
 
