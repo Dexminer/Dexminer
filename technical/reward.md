@@ -20,7 +20,7 @@ _(This means reward for Immortal is 80 times higher than reward for Common)_
 
 **In case the daily sale volumes for $DXM is $1M:**
 
-The total reward for all NFT holders is 2% of the sale fees, which means $20,000. We have 2,500 NFTs in total (50 Exclusive , 200 Super Epic ,100 Epic, 750 Rare & 4000 Common), so the reward for 1 NFT with 1x factor is:&#x20;
+The total reward for all NFT holders is 2% of the sale fees, which means $20,000. We have 2,500 NFTs in total (50 Exclusive , 100 Super Epic ,200 Epic, 650 Rare & 1500 Common), so the reward for 1 NFT with 1x factor is:&#x20;
 
 Reward for NFT with 1x factor = $20,000 / (50\*80 + 100\*30 + 200\*20+ 650\*5 + 1500\*1) = $1,27
 
