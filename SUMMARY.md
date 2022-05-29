@@ -14,6 +14,7 @@
 * [☮ DXM Dapp](dexminer-finance/dxm-dapp.md)
 * [🔆 DXM Lottery](dexminer-finance/dxm-lottery.md)
 * [💠 DXM Swap](dexminer-finance/dxm-swap.md)
+* [💳 DXM Credit Card](dexminer-finance/dxm-credit-card.md)
 
 ## TECHNICAL
 

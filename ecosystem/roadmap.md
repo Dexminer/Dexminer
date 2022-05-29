@@ -33,6 +33,7 @@ STAGE 2&#x20;
 * Dexminer Swap (ODEX) Release
 * Coinstore.com CEX listing
 * Stablecoin $DXM Mainnet & AudiT
+* Launch Prepaid Credit Card
 
 STAGE 3&#x20;
 
