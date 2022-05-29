@@ -13,7 +13,7 @@
 * [🔊 Promotion & Development](dexminer-finance/promotion-and-development.md)
 * [☮ DXM Dapp](dexminer-finance/dxm-dapp.md)
 * [🔆 DXM Lottery](dexminer-finance/dxm-lottery.md)
-* [DXM Swap](dexminer-finance/dxm-swap.md)
+* [💠 DXM Swap](dexminer-finance/dxm-swap.md)
 
 ## TECHNICAL
 
