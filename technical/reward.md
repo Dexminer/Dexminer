@@ -1,6 +1,6 @@
 ---
 description: Reward For NFT Holders
-cover: ../.gitbook/assets/photo_2022-05-29_00-15-33.jpg
+cover: ../.gitbook/assets/photo_2022-05-29_12-11-08.jpg
 coverY: 0
 ---
 
@@ -22,7 +22,7 @@ _(This means reward for Immortal is 80 times higher than reward for Common)_
 
 The total reward for all NFT holders is 2% of the sale fees, which means $20,000. We have 2,500 NFTs in total (50 Exclusive , 200 Super Epic ,100 Epic, 750 Rare & 4000 Common), so the reward for 1 NFT with 1x factor is:&#x20;
 
-Reward for NFT with 1x factor = $20,000 / (50\*80 + 200\*30 + 100\*20+ 750\*5 + 4000\*1) = $1.01
+Reward for NFT with 1x factor = $20,000 / (50\*80 + 100\*30 + 200\*20+ 650\*5 + 1500\*1) = $1,27
 
 The daily reward for each NFT rarity:&#x20;
 
