@@ -12,7 +12,7 @@ Some benefits of the DXM card:
 
 * Recharge the connection of mobile devices
 * Send DXM to your friends for free
-* Receive up to 10% cashback
+* Receive up to 12% cashback
 * Buy gifts with the DXM card at partner stores\
 
 
