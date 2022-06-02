@@ -14,10 +14,12 @@ Dexminer <mark style="background-color:purple;"></mark> <mark style="background-
 
 Our team is composed of developers and programmers with years of experience in the cryptocurrency market, we have two owners of the DeFi community and additional supporters, with this we have developed in our contract an anti-dumping shield to protect your investments and bring sustainability to the financial protocol. For success, it is fundamental to have confidence in our investors.
 
-Our main purpose is to maintain a sustainable model, making our investors economically profitable and providing confidence as well.
+Our main purpose is to maintain a sustainable model, making our investors economically profitable and providing confidence as well.\
+\
+**Contract Official:** 0xb8C3Cd9B751B115826D7531550bE60f265e4868e&#x20;
 
-Audit:\
-\
-Fairlaunch:\
-\
-KYC:
+**Audit:**\
+****\
+******Fairlaunch:**\
+****\
+******KYC:**

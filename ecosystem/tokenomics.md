@@ -5,7 +5,7 @@ coverY: 0
 
 # 🚀 Tokenomics
 
-<mark style="background-color:purple;">**Initial Supply - 800,000 $DXM**</mark>
+<mark style="background-color:purple;">**Initial Supply -10,000,000,000 $DXM**</mark>\ <mark style="background-color:purple;">****</mark>
 
 **Available to Purchase on PinkSale**\
 \
