@@ -39,7 +39,7 @@
 
 * [😍 Website](https://www.dexminer.app/)
 * [🤓 Telegram](https://t.me/DEXMINERofficial)
-* [😜 Twitter](https://twitter.com/DEXMINERAPP)
+* [😜 Twitter](https://twitter.com/dexminerfinance)
 * [😊 Reddit](https://www.reddit.com/user/DexMiner)
 * [🤠 Youtube](https://www.youtube.com/channel/UCdKU-omYluDgf9BauHLnhxw)
 * [😎 Discord](https://discord.gg/cWzbeEpJEW)
