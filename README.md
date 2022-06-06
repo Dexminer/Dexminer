@@ -22,4 +22,4 @@ Our main purpose is to maintain a sustainable model, making our investors econom
 ****\
 ******Fairlaunch:**\
 ****\
-******KYC:**
+******KYC:**[**https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.png**](https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.png)****
