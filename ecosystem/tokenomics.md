@@ -15,11 +15,6 @@ coverY: 0
 9% Development Plataform Bussines \
 1% Pinksale
 
-**Tokens for Liquidity -** 100,000 $DXM
-
-**Token Breakdown -** 100,000will be used for PancakeSwap to match 51% liquidity.\
-
-
 <mark style="background-color:purple;">NO TEAM TOKENS</mark> **-** The Dexminer Team will **NOT** hold any tokens. The only tokens owned by the Dexminer Treasury will be collected via accumulating trading fees. We are committed to the longevity of the project and thus the $DXM team cannot dump on you.
 
 \
