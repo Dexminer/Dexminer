@@ -11,13 +11,13 @@ coverY: 0
 \
 Pre-Launch - 250,000 $DXM
 
-41% - FAIRLAUNCH\
-22% - LIQUIDITY\
-06% - INITIAK SUPPLY BURNED\
-15% - CEX\
-10% - DEX\
-03% - TEAM TOKEN (VESTED)\
-01% - PINKSALE&#x20;
+50% burnt \
+12% presale \
+8% liquidity \
+5% Marketing and Influencers \
+15% Referral System for Investors \
+9% Development Plataform Bussines \
+1% Pinksale
 
 **Tokens for Liquidity -** 100,000 $DXM
 
