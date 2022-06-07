@@ -12,3 +12,5 @@ With this, we have found a common denominator to protect the greatest asset of D
 
 ![Anti-Dump Security
 Anti-Dump Shield to protect chart growth.](<../.gitbook/assets/anti dump.png>)
+
+{% embed url="https://www.youtube.com/watch?v=5YYfsG4SQy0" %}

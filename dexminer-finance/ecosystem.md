@@ -16,3 +16,5 @@ Aiming at the consolidation of our ecosystem, we have adopted some starting poin
 * <mark style="background-color:purple;">Dexminer Finance Fund</mark> - Strategically in order to achieve a sustainable ecosystem, dexminer finance develop a fund, where 3% of all fees from trading purchases and sales will be allocated to the central cashier (Dexminer Finance Fund) where we will redistribute values with periods to our investors and also in order to keep stable all application in the long term.
 * <mark style="background-color:purple;">Auto Token Burn</mark> - In order to have control over our tokens and achieve the defined valuation, we developed an automatic token burning system, known as "Miner Hole", where all $DXM token transactions will be burned 3%.
 * <mark style="background-color:purple;">Automatic compensation</mark> - As a major purpose to bring profit to our investors, we developed our ecosystem to pay our users with $DXM tokens every 12 minutes and 120 times every day, making the Dexminer Finance protocol the most automatic cryptocurrency compounding protocol.
+
+{% embed url="https://www.youtube.com/watch?v=JuU5A4hriVI" %}

@@ -28,3 +28,5 @@ Pre-Launch - 250,000 $DXM
 
 \
 <mark style="background-color:purple;">NO EXTRA MINT OR HIDDEN TOKENS</mark> **-** The $DXM smart contract has **NO** ability to mint extra tokens nor can the supply be manually increased or used in an artificial way to change the initial supply by awarding ourselves free tokens. The initial supply is 250,000 $DXM  tokens only (please see the breakdown above).
+
+{% embed url="https://www.youtube.com/watch?v=_-G2ieo7LbI" %}

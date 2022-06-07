@@ -17,4 +17,4 @@ DXM  NFT collection uniquely interacts with the DXM Ecosystem. There are 5 rarit
 * Super Epic: drop rate 3%
 * Exclusive: drop rate 1%
 
-<mark style="background-color:purple;"></mark>
+{% embed url="https://www.youtube.com/watch?v=OQEYOvNkEjk" %}

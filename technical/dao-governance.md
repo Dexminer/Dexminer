@@ -8,3 +8,5 @@ coverY: 0
 We will launch a DXM DAO Platform for users voting about changes in Dexminer Finance, DXM Bank, Tax changes, DXM Social Game revenue sharing ...&#x20;
 
 Stay tuned for more updates !
+
+{% embed url="https://www.youtube.com/watch?v=UQjiBv-ZhYY" %}
