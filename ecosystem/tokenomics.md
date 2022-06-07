@@ -7,10 +7,6 @@ coverY: 0
 
 <mark style="background-color:purple;">**Initial Supply -10,000,000,000 $DXM**</mark>\ <mark style="background-color:purple;">****</mark>
 
-**Available to Purchase on PinkSale**\
-\
-Pre-Launch - 250,000 $DXM
-
 50% burnt \
 12% presale \
 8% liquidity \
