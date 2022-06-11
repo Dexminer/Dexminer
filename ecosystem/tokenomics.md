@@ -15,6 +15,9 @@ coverY: 0
 9% Development Plataform Bussines \
 1% Pinksale
 
+* 6% Buy (2% BUSD Rewards, 2% Referral System, 2% Marketing)
+* 7% Sell (2% Liquidity, 3% BUSD Rewards, 1% Referral System, 1% development plataform)
+
 <mark style="background-color:purple;">NO TEAM TOKENS</mark> **-** The Dexminer Team will **NOT** hold any tokens. The only tokens owned by the Dexminer Treasury will be collected via accumulating trading fees. We are committed to the longevity of the project and thus the $DXM team cannot dump on you.
 
 \

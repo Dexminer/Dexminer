@@ -16,12 +16,13 @@ Our team is composed of developers and programmers with years of experience in t
 
 Our main purpose is to maintain a sustainable model, making our investors economically profitable and providing confidence as well.\
 \
-**Contract Official:** 0xb8C3Cd9B751B115826D7531550bE60f265e4868e&#x20;
+**Contract Official:** [**https://bscscan.com/token/0x7be0EA5BeD4bc7483D36103CeE590B43A26778BC**](https://bscscan.com/token/0x7be0EA5BeD4bc7483D36103CeE590B43A26778BC)****
 
 **Audit:**\
 ****\
 ******Fairlaunch:**\
 ****\
-******KYC:**[**https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.png**](https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.png)****
+******KYC:**\
+****[**https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.png**](https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.png)****
 
 {% embed url="https://youtu.be/67jQFnIDyVA" %}
