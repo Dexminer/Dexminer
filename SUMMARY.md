@@ -43,5 +43,5 @@
 * [😊 Reddit](https://www.reddit.com/user/DexMiner)
 * [🤠 Youtube](https://www.youtube.com/channel/UCdKU-omYluDgf9BauHLnhxw)
 * [😎 Discord](https://discord.gg/cWzbeEpJEW)
-* [😛 Medium](https://medium.com/@dexminermkt)
+* [😛 Medium](https://medium.com/@dexminer)
 * [😝 Linktree](https://linktr.ee/dexminerfinance)
