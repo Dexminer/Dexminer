@@ -5,7 +5,11 @@ coverY: 0
 
 # 🚀 Tokenomics
 
-<mark style="background-color:purple;">**Initial Supply -10,000,000,000 $DXM**</mark>\ <mark style="background-color:purple;">****</mark>
+Total Supply: 10,000,000,000
+
+Token Symbol: $DXM
+
+Token Standard: BEP-20
 
 50% burnt \
 12% presale \
@@ -15,8 +19,8 @@ coverY: 0
 9% Development Plataform Bussines \
 1% Pinksale
 
-* 6% Buy (2% BUSD Rewards, 2% Referral System, 2% Marketing)
-* 7% Sell (2% Liquidity, 3% BUSD Rewards, 1% Referral System, 1% development plataform)
+* 6% Buy Tax (2% BUSD Rewards, 1% Referral System, 2% Treasury, 1% Burn Protocol)
+* 7% Sell Tax (3% BUSD Rewards, 1% Referral System, 1% Treasury, 2% Burn Protocol)
 
 <mark style="background-color:purple;">NO TEAM TOKENS</mark> **-** The Dexminer Team will **NOT** hold any tokens. The only tokens owned by the Dexminer Treasury will be collected via accumulating trading fees. We are committed to the longevity of the project and thus the $DXM team cannot dump on you.
 
