@@ -5,7 +5,7 @@ coverY: 0
 
 # 🚀 Tokenomics
 
-Total Supply: 10,000,000,000
+Total Supply: 1,000,000,000
 
 Token Symbol: $DXM
 
