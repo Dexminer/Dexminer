@@ -19,12 +19,12 @@ Our main purpose is to maintain a sustainable model, making our investors econom
 **Contract Official:** [**https://bscscan.com/token/0x7be0EA5BeD4bc7483D36103CeE590B43A26778BC**](https://bscscan.com/token/0x7be0EA5BeD4bc7483D36103CeE590B43A26778BC)****
 
 **Audit:**\
-****[**https://github.com/SpyWolfNetwork/Smart\_Contract\_Audits/blob/main/June/Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.pdf**](https://github.com/SpyWolfNetwork/Smart\_Contract\_Audits/blob/main/June/Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.pdf)****\
+****[**https://github.com/SpyWolfNetwork/Smart\_Contract\_Audits/blob/main/June/Dexminer\_0xEb34cF8880b4f514a17D5cC64F356DfF4cE0aF02.pdf**](https://github.com/SpyWolfNetwork/Smart\_Contract\_Audits/blob/main/June/Dexminer\_0xEb34cF8880b4f514a17D5cC64F356DfF4cE0aF02.pdf)****\
 ****\
 ******Fairlaunch:**\
 ****[**https://www.pinksale.finance/launchpad/0xDd0ccD007083b0841ABb18325802bC45b6373aA0?chain=BSC**](https://www.pinksale.finance/launchpad/0xDd0ccD007083b0841ABb18325802bC45b6373aA0?chain=BSC)****\
 ****\
 ******KYC:**\
-****[**https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.png**](https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.png)****
+****[**https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xEb34cF8880b4f514a17D5cC64F356DfF4cE0aF02.png**](https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xEb34cF8880b4f514a17D5cC64F356DfF4cE0aF02.png)****
 
 {% embed url="https://youtu.be/67jQFnIDyVA" %}
