@@ -16,7 +16,8 @@ Our team is composed of developers and programmers with years of experience in t
 
 Our main purpose is to maintain a sustainable model, making our investors economically profitable and providing confidence as well.\
 \
-**Contract Official:** [**https://bscscan.com/token/0x7be0EA5BeD4bc7483D36103CeE590B43A26778BC**](https://bscscan.com/token/0x7be0EA5BeD4bc7483D36103CeE590B43A26778BC)****
+**Contract Official:** \
+****0xEb34cF8880b4f514a17D5cC64F356DfF4cE0aF02
 
 **Audit:**\
 ****[**https://github.com/SpyWolfNetwork/Smart\_Contract\_Audits/blob/main/June/Dexminer\_0xEb34cF8880b4f514a17D5cC64F356DfF4cE0aF02.pdf**](https://github.com/SpyWolfNetwork/Smart\_Contract\_Audits/blob/main/June/Dexminer\_0xEb34cF8880b4f514a17D5cC64F356DfF4cE0aF02.pdf)****\
