@@ -5,5 +5,10 @@ coverY: 0
 
 # ✅ Audit & KYC
 
-KYC: [https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.png](https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.png)\
+**KYC:**\
+****[**https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.png**](https://github.com/SpyWolfNetwork/KYCs/blob/main/june/KYC\_Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.png)\
+\
+**Audit:**\
+****[**https://github.com/SpyWolfNetwork/Smart\_Contract\_Audits/blob/main/June/Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.pdf**](https://github.com/SpyWolfNetwork/Smart\_Contract\_Audits/blob/main/June/Dexminer\_0xb8C3Cd9B751B115826D7531550bE60f265e4868e.pdf)\
+\
 \

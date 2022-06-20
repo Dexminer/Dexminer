@@ -22,12 +22,12 @@ Token Standard: BEP-20
 * 6% Buy Tax (2% BUSD Rewards, 1% Referral System, 2% Treasury, 1% Burn Protocol)
 * 7% Sell Tax (3% BUSD Rewards, 1% Referral System, 1% Treasury, 2% Burn Protocol)
 
+![](../.gitbook/assets/photo\_2022-06-19\_22-03-14.jpg)
+
 <mark style="background-color:purple;">NO TEAM TOKENS</mark> **-** The Dexminer Team will **NOT** hold any tokens. The only tokens owned by the Dexminer Treasury will be collected via accumulating trading fees. We are committed to the longevity of the project and thus the $DXM team cannot dump on you.
 
 \
 <mark style="background-color:purple;">NO EXTRA MINT OR HIDDEN TOKENS</mark> **-** The $DXM smart contract has **NO** ability to mint extra tokens nor can the supply be manually increased or used in an artificial way to change the initial supply by awarding ourselves free tokens.&#x20;
-
-![](../.gitbook/assets/photo\_2022-06-07\_18-43-13.jpg)
 
 
 
