@@ -5,19 +5,19 @@ coverY: 0
 
 # 🚀 Tokenomics
 
-Total Supply: 1,000,000,000
+Total Supply: 1,151,750,967
 
 Token Symbol: $DXM
 
 Token Standard: BEP-20
 
-50% burnt \
-12% presale \
-8% liquidity \
+31.69% burnt \
+16.84% presale \
+11.55% liquidity \
 5% Marketing and Influencers \
-15% Referral System for Investors \
-9% Development Plataform Bussines \
-1% Pinksale
+17.31% Referral System for Investors \
+15.61% Development Plataform Bussines \
+2% Pinksale
 
 * 6% Buy Tax (2% BUSD Rewards, 1% Referral System, 2% Treasury, 1% Burn Protocol)
 * 7% Sell Tax (3% BUSD Rewards, 1% Referral System, 1% Treasury, 2% Burn Protocol)
